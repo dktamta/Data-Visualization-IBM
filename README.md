@@ -72,6 +72,6 @@ The analysis is performed using the following Python libraries:
    ```bash
    pip install pandas numpy matplotlib seaborn folium
 
-Author
+# Author
 
-DEEPAK KUMAR TAMTA
+## DEEPAK KUMAR TAMTA
