@@ -1,4 +1,4 @@
-#Automobile Sales Analysis During Recession
+# Automobile Sales Analysis During Recession
 
 This project explores the impact of economic recessions on automobile sales through a comprehensive set of data visualizations. Using Python and popular data science libraries, we analyze trends in sales, advertising expenditure, vehicle types, GDP, consumer confidence, and unemployment rates.
 
