@@ -1,4 +1,7 @@
-# Automobile Sales Analysis During Recession
+# generate_readme.py
+# Run this script to create a professional README.md for your automobile sales analysis project.
+
+readme_content = r"""# Automobile Sales Analysis During Recession
 
 This project explores the impact of economic recessions on automobile sales through a comprehensive set of data visualizations. Using Python and popular data science libraries, we analyze trends in sales, advertising expenditure, vehicle types, GDP, consumer confidence, and unemployment rates.
 
@@ -34,12 +37,13 @@ The analysis is performed using the following Python libraries:
 ### Task 1.1 – Line Chart: Yearly Automobile Sales
 - Plots average automobile sales per year.
 - Annotates two recession periods (e.g., 2008–2009, 2020).
-- ![Yearly Automobile Sales](Images\YearlyReportgraphs.png)
+![Yearly Automobile Sales](Images\YearlyReportgraphs.png)
 
 ### Task 1.2 – Advertising vs. Sales during Non‑Recession
 - Dual‑line plot comparing average sales and advertising expenditure over non‑recession years.
 - Highlights correlation (or lack thereof) between marketing spend and sales.
-- ![RecessionReportgraphs](Images\RecessionReportgraphs.png)
+![Recession Reports Graph](Images\RecessionReportgraphs.png)
+
 
 ### Task 1.3 – Vehicle‑Wise Sales: Recession vs. Non‑Recession
 - Grouped bar chart using seaborn.
@@ -75,5 +79,4 @@ The analysis is performed using the following Python libraries:
    pip install pandas numpy matplotlib seaborn folium
 
 # Author
-
-## DEEPAK KUMAR TAMTA
+## Deepak Kumar Tamta
