@@ -34,10 +34,12 @@ The analysis is performed using the following Python libraries:
 ### Task 1.1 – Line Chart: Yearly Automobile Sales
 - Plots average automobile sales per year.
 - Annotates two recession periods (e.g., 2008–2009, 2020).
+- ![Yearly Automobile Sales](Images\YearlyReportgraphs.png)
 
 ### Task 1.2 – Advertising vs. Sales during Non‑Recession
 - Dual‑line plot comparing average sales and advertising expenditure over non‑recession years.
 - Highlights correlation (or lack thereof) between marketing spend and sales.
+- ![RecessionReportgraphs](Images\RecessionReportgraphs.png)
 
 ### Task 1.3 – Vehicle‑Wise Sales: Recession vs. Non‑Recession
 - Grouped bar chart using seaborn.
